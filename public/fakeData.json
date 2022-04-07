@@ -1,0 +1,66 @@
+
+[
+    {
+            "id": "1",
+            "name": "Sumit",
+            "rating": "⭐⭐⭐⭐⭐",
+            "review" : "The service is perfect, i would recommend them, they respond quicky and kindly.",
+            "img": "https://i.ibb.co/72dfpJp/Mark-500-Copy.jpg" 
+    },
+    {
+        "id": "2",
+        "name" : "Hero Alom",
+       "rating" :"⭐⭐⭐",
+       "review": "Shipping was fast and the items were well packed! For the price of the CPU and the cooler, t'was basically a good old $50 off of retail!",
+       "img": "https://i.ibb.co/WPxk3wb/images-10-Copy.jpg"
+    },
+    {
+        "id": "3",
+        "name" : "Jxcoon khan",
+       "rating" :"⭐⭐⭐⭐",
+       "review": "Ahmed at Custom PC Building went above and beyond to help me design and build a beast of a recording studio computer. I will most definitely use this company again!",
+       "img": "https://i.ibb.co/f2yS0Tc/images-9-Copy.jpg"
+    },
+    {
+        "id": "4",
+        "name" : "Akkas",
+       "rating" :"⭐⭐",
+       "review": "Great :)Good build ☺️",
+       "img": "https://i.ibb.co/M6V7X4T/images-8.jpg"
+    },
+    {
+        "id": "5",
+        "name" : "Redxan",
+       "rating" :"⭐",
+       "review": "Great work with the Desktop they made for me. I am greatly satisfied for choosing them to create my pc.",
+       "img": "https://i.ibb.co/BCMt375/images-7.jpg"
+    },
+    {
+        "id": "6",
+        "name" : "Taskin",
+       "rating" :"⭐⭐⭐",
+       "review": "I’m very happy with my new computer and service :)       ",
+       "img": "https://i.ibb.co/rk5nR7v/images-6.jpg"
+    },
+    {
+        "id": "7",
+        "name" : "Jinda Islam",
+       "rating" :"⭐⭐⭐⭐",
+       "review": "Great condition, as expected, friendly and quick       ",
+       "img": "https://i.ibb.co/4gnq645/istockphoto-1171169099-170667a.jpg"
+    },
+    {
+        "id": "8",
+        "name" : "Summit ",
+       "rating" :"⭐⭐⭐",
+       "review": "Products and build are as described everything runs and works great       ",
+       "img": "https://i.ibb.co/Y3bXhGv/277128006-331443509003376-2126915875755472198-n.jpg"
+    },
+    {
+        "id": "9",
+        "name" : "Rexjsond Khan",
+       "rating" :"⭐⭐⭐⭐",
+       "review": "Purchased a gaming PC in Jan 2020. Pricing was competitive and final product was great and was delivered to my door. All expectations exceeded. Nice guy too. Highly recommend!",
+       "img": "https://i.ibb.co/5WcksYj/download.jpg"
+    }
+]
